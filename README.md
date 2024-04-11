@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">A passionate Software Development and AI enthusiast from India</h3>
+<h1 align="center">Hi I'm Saurabh Kumar,👋</h1>
+<h3 align="center">As a Software Engineer 🧑🏽‍💻 Strive to build things that make a difference!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkr78&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkr78" /> </p>
 
@@ -8,7 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhkr78" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhkr78?logo=twitter&style=for-the-badge" alt="saurabhkr78" /></a> </p>
 
-- 🔭 I’m currently working on **Hydrogen Smoking Lighter**
+- 🔭 I’m currently a **Computer Science and Enginnering** student.
+
+- 🌱 I’m currently learning **Machine Learning,Database,Rust, Data Structure and algorithms and Mathematics**
+
+- 👯 I’m looking to collaborate on **Real-Time Multi-Modal Emotion Recognition**
+
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 - 🌱 I’m currently learning **Machine Learning,Database,Rust, Data Structure and algorithms and Mathematics**
 
