@@ -25,9 +25,10 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/saurabhkr78/](https://www.linkedin.com/in/saurabhkr78/)
 - 🎧 Currently hooked to
 - ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85)
-- ⚡ Fun fact **I think I am XYZ**
+
 - Intellectual Jokes
-![Jokes Card](https://readme-jokes.vercel.app/api)
+-![Jokes Card](https://readme-jokes.vercel.app/api)
+- ⚡ Fun fact **I think I am XYZ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
