@@ -24,7 +24,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/saurabhkr78/](https://www.linkedin.com/in/saurabhkr78/)
 
 - ⚡ Fun fact **I think I am XYZ**
-- 🎧 currently listening to ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85)
+- 🎧 currently listening to ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85&unique={true|1|on|yes})
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
