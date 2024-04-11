@@ -25,6 +25,8 @@
 
 - ⚡ Fun fact **I think I am XYZ**
 - 🎧 currently listening to ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85&unique={true|1|on|yes})
+- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85&count={count})
+- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85&width={width})
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
