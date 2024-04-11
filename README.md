@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate Software Development and AI enthusiast from India</h3>
 
@@ -25,6 +26,8 @@
 - 🎧 Currently hooked to
 - ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85)
 - ⚡ Fun fact **I think I am XYZ**
+- Intellectual Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
