@@ -29,7 +29,7 @@
 - Intellectual Jokes !
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-- ⚡ Fun fact **I think I am XYZ**
+- ⚡ Fun fact **I am Interested in Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
