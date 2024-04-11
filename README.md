@@ -28,8 +28,6 @@
 
 - Intellectual Jokes !
 -
--
--
 - [Jokes Card](https://readme-jokes.vercel.app/api)
 - ⚡ Fun fact **I think I am XYZ**
 
