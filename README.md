@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Machine Learning,Database,Rust, Data Structure and algorithms and Mathematics**
 
 - 👯 I’m looking to collaborate on **Real-Time Multi-Modal Emotion Recognition**
-- - ⚡ **I am Interested in **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
+- - ⚡ I am Interested in **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhkr78](https://github.com/saurabhkr78)
 
 - 💬 Ask me about **C,C++,Java,Python,SQL,NoSQL,Data Structures and Algorithms,Docker,Kubernetes,Linux Administration,Machine and Deep Learning,NLP,Neural Network,Mathematics.**
