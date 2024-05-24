@@ -7,22 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhkr78" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhkr78?logo=twitter&style=for-the-badge" alt="saurabhkr78" /></a> </p>
 
-- 🔭 I’m currently a **Computer Science and Enginnering** student.
-- 🌱 I’m currently learning **Machine Learning,Database,Rust, Data Structure and algorithms and Mathematics**
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 🌱 I’m currently learning **Machine Learning,Database,Rust, Data Structure and algorithms and Mathematics**
+- 🌱 I’m currently learning **Machine Learning**.
 - 👯 I’m looking to collaborate on **Real-Time Multi-Modal Emotion Recognition**
 - ⚡I am Interested in **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
 - 👨‍💻 my projects [https://github.com/saurabhkr78](https://github.com/saurabhkr78)
-- 💬 Ask me about **C,C++,Java,Python,SQL,NoSQL,Data Structures and Algorithms,Docker,Kubernetes,Linux Administration,Machine and Deep Learning,NLP,Neural Network,Mathematics.**
+- 💬 Ask me about **DSA,MLOps**
 - 📫 feel free to reach me out **meetsaurabh78@gmail.com**
 - 🎧 Currently hooked to
 - ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85)
-
-- Intellectual Jokes !
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
