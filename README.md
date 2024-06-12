@@ -13,16 +13,13 @@
 
 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 🌱 I’m currently learning **Machine Learning**.
-- 👯 I’m looking to collaborate on **Real-Time Multi-Modal Emotion Recognition**
-- ⚡I am Interested in **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
-- 👨‍💻 my projects [https://github.com/saurabhkr78](https://github.com/saurabhkr78)
-- 💬 Ask me about **DSA,MLOps**
-- 📫 feel free to reach me out **meetsaurabh78@gmail.com**
+-🌱 I’m currently learning **DSA,MLOps,Personal Finance**.
+- 👯 I’m looking to collaborate on **low level development projects**
+- ⚡intrinsic motivators **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
 - 🎧 Currently hooked to
 - ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85)
 
-### 📫 Like to meet me?
+### 📫 Like to meet me virtually?
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda.
 <a href="https://calendly.com/meetsaurabh78/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
