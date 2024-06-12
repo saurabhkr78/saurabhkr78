@@ -18,8 +18,9 @@
 - ⚡intrinsic motivators: **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
 <div align="center">
   <h3>🎧 Currently hooked to</h3>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85" alt="Alt text" width="300">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85" alt="Alt text" width="820" height="360">
 </div>
+
 
 ### 📫 Like to meet me virtually?
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda.
