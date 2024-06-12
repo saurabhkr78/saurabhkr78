@@ -10,6 +10,7 @@
 [![Kaggle: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://kaggle.com/saurabhkr78)](https://kaggle.com/saurabhkr78)
 [![Codeforces: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/saurabhkr78)](https://codeforces.com/profile/saurabhkr78)
 [![LeetCode: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://www.leetcode.com/saurabhkr78)](https://www.leetcode.com/saurabhkr78)
+[![GitHub followers](https://img.shields.io/github/followers/saurabhkr78?label=Follow&style=social)](https://github.com/saurabhkr78)
 [![Profile Views](https://komarev.com/ghpvc/?username=saurabhkr78&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/saurabhkr78)
 
 
