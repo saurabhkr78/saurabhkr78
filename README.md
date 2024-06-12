@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I am glad you are here to know more about me</h1>
-<h3 align="center">A CSE UnderGrad 🧑🏽‍💻 Strive to build things that make a difference!</h3>
+<h3 align="center">"A CSE UnderGrad 🧑🏽‍💻 Strives to build things that make a difference"!</h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 [![Twitter: saurabhkr78](https://img.shields.io/twitter/follow/saurabhkr78?style=social)](https://twitter.com/saurabhkr78)
