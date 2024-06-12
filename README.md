@@ -13,14 +13,15 @@
 [![GitHub followers](https://img.shields.io/github/followers/saurabhkr78?label=Follow&style=social)](https://github.com/saurabhkr78)
 [![Profile Views](https://komarev.com/ghpvc/?username=saurabhkr78&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/saurabhkr78)
 
-
+- 🏡 I basically live on GitHub.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
--🌱 I’m currently learning **DSA,MLOps,Personal Finance**.
+- 🌱 I’m currently learning **DSA,MLOps,Personal Finance**.
 
 - 👯 I’m looking to collaborate on **low level development projects**
  
 - ⚡intrinsic motivators: **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
+- 👩‍💻 Love talking to developers on GitHub
 
 ### 📫 Like to meet me virtually?
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda.
