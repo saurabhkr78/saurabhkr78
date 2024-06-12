@@ -1,11 +1,12 @@
 <h1 align="center">Hi👋, I am glad you are here to know more about me</h1>
 <h3 align="center">As a CSE UnderGrad 🧑🏽‍💻 Strive to build things that make a difference!</h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkr78&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkr78" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkr78" alt="saurabhkr78" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saurabhkr78" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhkr78?logo=twitter&style=for-the-badge" alt="saurabhkr78" /></a> </p>
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/saurabhkr78?style=social)](https://twitter.com/saurabhkr78)
 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 🌱 I’m currently learning **Machine Learning**.
