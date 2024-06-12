@@ -4,6 +4,7 @@
 
 [![Twitter: saurabhkr78](https://img.shields.io/twitter/follow/saurabhkr78?style=social)](https://twitter.com/saurabhkr78)
 [![LinkedIn: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saurabhkr78)](https://linkedin.com/in/saurabhkr78)
+[![Discord: YourUsername](https://img.shields.io/badge/-YourUsername%23XXXX-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
 [![Gmail: saurabhkr78](https://img.shields.io/badge/-saurabhkr78@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saurabhkr78@gmail.com)
 [![Stack Overflow: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/saurabhkr78)](https://stackoverflow.com/users/saurabhkr78)
 [![Kaggle: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://kaggle.com/saurabhkr78)](https://kaggle.com/saurabhkr78)
