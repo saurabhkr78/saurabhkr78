@@ -2,8 +2,6 @@
 <h3 align="center">As a CSE UnderGrad 🧑🏽‍💻 Strive to build things that make a difference!</h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkr78&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkr78" /> </p>
-
 [![Twitter: saurabhkr78](https://img.shields.io/twitter/follow/saurabhkr78?style=social)](https://twitter.com/saurabhkr78)
 [![LinkedIn: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saurabhkr78)](https://linkedin.com/in/saurabhkr78)
 [![Gmail: saurabhkr78](https://img.shields.io/badge/-saurabhkr78@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saurabhkr78@gmail.com)
