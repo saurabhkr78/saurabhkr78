@@ -36,6 +36,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <p style="color: green;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkr78&show_icons=true&locale=en&layout=compact" alt="saurabhkr78" /></p>
 
-<p style="color: green;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhkr78&show_icons=true&locale=en" alt="saurabhkr78" /></p>
+<p style="color: green;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhkr78&show_icons=true&locale=en" alt="saurabhkr78" /></p>
 
 <p style="color: green;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkr78&" alt="saurabhkr78" /></p>
