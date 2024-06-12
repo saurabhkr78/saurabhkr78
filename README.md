@@ -18,10 +18,10 @@
 
 - 🌱 I’m currently learning **DSA,MLOps,Personal Finance**.
 
-- 👯 I’m looking to collaborate on **low level development projects**
+- 👯 I’m looking to collaborate on **low level development projects**.
  
-- ⚡intrinsic motivators: **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurous travelling,chess**
-- 👩‍💻 Love talking to developers on GitHub
+- ⚡intrinsic motivators: **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurous travelling,chess**.
+- 👩‍💻 Love talking to developers on GitHub.
 
 ### 📫 Like to meet me virtually?
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda.
