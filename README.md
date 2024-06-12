@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkr78&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkr78" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkr78" alt="saurabhkr78" /></a> </p>
-
 [![Twitter: saurabhkr78](https://img.shields.io/twitter/follow/saurabhkr78?style=social)](https://twitter.com/saurabhkr78)
 [![Linkedin: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabhkr78/)](https://www.linkedin.com/in/saurabhkr78/)
 [![GitHub saurabhkr78](https://img.shields.io/github/followers/saurabhkr78?label=follow&style=social)](https://github.com/saurabhkr78)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkr78" alt="saurabhkr78" /></a> </p>
 
 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
