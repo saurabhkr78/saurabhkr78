@@ -6,10 +6,13 @@
 
 [![Twitter: saurabhkr78](https://img.shields.io/twitter/follow/saurabhkr78?style=social)](https://twitter.com/saurabhkr78)
 [![LinkedIn: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saurabhkr78)](https://linkedin.com/in/saurabhkr78)
+[![Gmail: saurabhkr78](https://img.shields.io/badge/-saurabhkr78@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saurabhkr78@gmail.com)
 [![Stack Overflow: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/saurabhkr78)](https://stackoverflow.com/users/saurabhkr78)
 [![Kaggle: saurabhkr0808](https://img.shields.io/badge/-saurabhkr0808-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://kaggle.com/saurabhkr0808)](https://kaggle.com/saurabhkr0808)
 [![Codeforces: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/saurabhkr78)](https://codeforces.com/profile/saurabhkr78)
 [![LeetCode: saurabhkr78](https://img.shields.io/badge/-saurabhkr78-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://www.leetcode.com/saurabhkr78)](https://www.leetcode.com/saurabhkr78)
+[![Profile Views](https://komarev.com/ghpvc/?username=saurabhkr78&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/saurabhkr78)
+
 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 🌱 I’m currently learning **Machine Learning**.
