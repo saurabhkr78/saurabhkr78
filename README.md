@@ -14,9 +14,13 @@
 
 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+  
 -🌱 I’m currently learning **DSA,MLOps,Personal Finance**.
+
 - 👯 I’m looking to collaborate on **low level development projects**
+- 
 - ⚡intrinsic motivators: **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
+- 
 <div align="left">
   <h3>🎧 Currently hooked to</h3>
   <div style="display: inline-block;">
