@@ -16,10 +16,11 @@
 -🌱 I’m currently learning **DSA,MLOps,Personal Finance**.
 - 👯 I’m looking to collaborate on **low level development projects**
 - ⚡intrinsic motivators: **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurouss travelling,chess**
-<div align="left">
+<div style="text-align: left;">
   <h3>🎧 Currently hooked to</h3>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85" alt="Spotify" width="820" height="100">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jweclasgumdfg629tylg8kh85" alt="Alt text" width="820" height="100">
 </div>
+
 
 ### 📫 Like to meet me virtually?
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda.
