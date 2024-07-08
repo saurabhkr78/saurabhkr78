@@ -22,10 +22,7 @@
  
 - ⚡intrinsic motivators: **Riding,geopolitics,philosophy,singing,guitar,exploring new techonlogy,intellectual talks,adventurous travelling,chess**.
 - 👩‍💻 Love talking to developers.
-
-### 📫 Like to meet me virtually?
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda.
-
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</b> :)</em>
 <a href="https://calendly.com/meetsaurabh78/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
@@ -61,7 +58,7 @@ int main() {
 ```
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 
 <p align="left">
