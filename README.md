@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋, I am glad you are here to know more about me</h1>
-<h3 align="center">"A CSE UnderGrad 🧑🏽‍💻 Strives to build things that make a difference"!</h3>
+<h1 align="center">Hi👋, Lets make an impact before we die</h1>
+<h3 align="center">"Just Be Curious"!</h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 [![Twitter: saurabhkr78](https://img.shields.io/twitter/follow/saurabhkr78?style=social)](https://twitter.com/saurabhkr78)
@@ -16,8 +16,8 @@
 
 - 👯 I’m looking to collaborate on **low level development projects**.
  
-- ⚡intrinsic motivators: **Enginnering,Riding,geopolitics,philosophy,singing,,intellectual talks,adventurous travelling**.
-- 👩‍💻 Love talking to developers.
+- ⚡intrinsic motivators: **Riding,geopolitics,philosophy,singing,adventurous travelling**.
+- 👩‍💻 Love talking to developers for Enginnering side of Tech.
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</b> :)</em>
 
 <a href="https://calendly.com/meetsaurabh78/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
