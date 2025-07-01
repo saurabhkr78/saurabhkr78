@@ -22,16 +22,6 @@ I'm a Software Engineer and Engineering Leader with a deep passion for:
 
 ---
 
-💡 **Current Focus**
-
-- 🌱 Exploring Dev Productivity tools and Personal Finance  
-- 👯 Looking to collaborate on **low-level development projects**  
-- 💬 Always happy to jam on backend architecture, infrastructure scaling, or engineering culture  
-
-⚡ Intrinsic motivators: **Riding**, **geopolitics**, **philosophy**, **singing**, and **adventurous travel**
-
----
-
 🧑‍💻 **Let’s Chat**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
