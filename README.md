@@ -36,5 +36,5 @@ I'm a Software Engineer and Engineering Leader with a deep passion for:
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkr78&show_icons=true&locale=en&layout=compact" width="300" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhkr78&show_icons=true&locale=en" width="400" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkr78&" width="300" />
+  <img align="left" src="https://streak-stats.demolab.com
 </p>
