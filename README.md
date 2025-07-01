@@ -21,18 +21,11 @@ I'm a Software Engineer and Engineering Leader with a deep passion for:
 - 🔍 Always diving deep into engineering details — I believe craftsmanship matters
 
 ---
-
-🧑‍💻 **Let’s Chat**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 <em><b>Pick a slot if you'd like to meet me and chat about anything you are passionate about – just describe the agenda!</b></em>  
 
 <a href="https://calendly.com/meetsaurabh78/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ---
-
-📊 **GitHub Stats**
-
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkr78&show_icons=true&locale=en&layout=compact" width="300" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhkr78&show_icons=true&locale=en" width="400" />
