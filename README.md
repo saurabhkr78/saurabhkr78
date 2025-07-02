@@ -1,5 +1,4 @@
-<h1 align="center">Hi👋, Let's make an impact before we die</h1>
-<h3 align="center">"Just Be Curious"!</h3>
+<h1 align="center">"Just Being Curious!"</h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 [![Twitter: saurabhkr78](https://img.shields.io/twitter/follow/saurabhkr78?style=social)](https://twitter.com/saurabhkr78)
