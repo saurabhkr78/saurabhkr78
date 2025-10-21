@@ -29,7 +29,7 @@
 
 ### 🚀 About Me
 
-I’m a **Software Engineer** and **Engineering Leader** with a deep passion for:
+I’m a **First-principle Software Engineer** and **Engineering Leader** with a deep passion for:
 
 - 🧠 System Architecture — designing scalable & reliable backend infrastructures  
 - 🗄️ Databases — building robust data layers and optimizing performance  
