@@ -29,12 +29,7 @@
 
 ### 🚀 About Me
 
-I’m a **First-principle Software Engineer** and **Engineering Leader** with a deep passion for:
-
-- 🧠 System Architecture — designing scalable & reliable backend infrastructures  
-- 🗄️ Databases — building robust data layers and optimizing performance  
-- 📈 Scaling Systems — evolving platforms from **0 → 1 and beyond**  
-- 🎯 Deep-dive debugging and engineering craftsmanship — details matter!
+I’m a **First-principle Software Engineer** and **Engineering Leader** with a deep passion for CS
 
 
 ### 📊 GitHub Stats
