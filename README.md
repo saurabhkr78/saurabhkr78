@@ -36,22 +36,6 @@ I’m a **First-principle Software Engineer** and **Engineering Leader** with a 
 - 📈 Scaling Systems — evolving platforms from **0 → 1 and beyond**  
 - 🎯 Deep-dive debugging and engineering craftsmanship — details matter!
 
----
-
-### 📅 Let's Connect!
-
-<em>
-  Want to chat about something you're passionate about?<br>
-  Pick a slot and let's connect! Just describe your agenda 😄
-</em>
-
-<p align="center">
-  <a href="https://calendly.com/meetsaurabh78/30min" target="_blank">
-    <img width="400" alt="Schedule a Meeting" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
