@@ -32,13 +32,6 @@
 I’m a **First-principle Software Engineer** and **Engineering Leader** with a deep passion for CS
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkr78&show_icons=true&locale=en&layout=compact" width="320" />
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkr78&show_icons=true&locale=en&theme=default" width="400" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=saurabhkr78" width="730" />
 </p>
