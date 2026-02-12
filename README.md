@@ -29,7 +29,7 @@
 
 ### 🚀 About Me
 
-I’m a **First-principle Software Engineer** and **Engineering Leader** with a deep passion for CS
+I’m a **First-principle Software Engineer** with a deep passion for CS
 
 
 <p align="center">
